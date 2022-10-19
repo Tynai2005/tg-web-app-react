@@ -5,7 +5,7 @@ const tg = window.Telegram.WebApp
 function App() {
 
   useEffect(() => {
-
+    console.log('hiii');
   }, [])
 
   const onClose = () => {
